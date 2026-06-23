@@ -39,6 +39,10 @@ The website includes:
 ✔ Contact Form
 ✔ Portfolio & Gallery Sections
 
+## 🌐 Live Demo
+
+View the live website here: https://hslimi5775699.github.io/Terraforma-website/
+
 ## 📸 Screenshots
 
 *Screenshots will be added as the project progresses.*
